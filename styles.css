@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+    padding: 2rem;
+    background: #f4f4f4;
+}
+
+input,
+button {
+    padding: 0.5rem;
+    font-size: 1rem;
+}
+
+.output {
+    background: #fff;
+    border-radius: 8px;
+    padding: 1rem;
+    margin-top: 1rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.step {
+    margin-bottom: 0.5rem;
+}
